@@ -23,3 +23,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Visual Studio
+*.slnx
+*.esproj
+*.esproj.user
+obj/
