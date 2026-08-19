@@ -1,1 +1,2 @@
 C:\Users\ionov\source\repos\riwvv.github.io\obj\Debug\riwvv.github.io.esproj.CoreCompileInputs.cache
+C:\Users\ionov\source\repos\riwvv\riwvv.github.io\obj\Debug\riwvv.github.io.esproj.CoreCompileInputs.cache
